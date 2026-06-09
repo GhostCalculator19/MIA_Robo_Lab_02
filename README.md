@@ -51,6 +51,11 @@
 
 # **2. Базовая модель без предобработки**
 
-## 2.1. Эксперимент 3.1 - признаки V1
+## 2.1. Эксперимент на признаки V1
 ![Alt Text](/Pictures/Train_NonNorm_V1.png)
 
+## 2.2. Эксперимент на признаки V2
+![Alt Text](/Pictures/Train_NonNorm_V2.png)
+
+## 2.3. Эксперимент на признаки V1 + V2
+![Alt Text](/Pictures/Train_NonNorm_V1+V2.png)
