@@ -1,0 +1,8 @@
+Dataset,Config,Hidden Layers,Activation,Solver,CV,CV std,Accuracy,F1,model
+V1,Базовая,"(50, 25)",relu,adam,0.8295,0.0377,0.9943,0.9859,"MLPClassifier(hidden_layer_sizes=(50, 25), max_iter=1000, random_state=42)"
+V1,Больше нейронов,"(100, 50)",relu,adam,0.8295,0.0341,1.0,1.0,"MLPClassifier(hidden_layer_sizes=(100, 50), max_iter=1000, random_state=42)"
+V1,Функция tanh,"(50, 25)",tanh,adam,0.7955,0.0,0.7955,0.0,"MLPClassifier(activation='tanh', hidden_layer_sizes=(50, 25), max_iter=1000,
+              random_state=42)"
+V1,3 скрытых слоя,"(30, 15, 10)",relu,adam,0.8409,0.0161,0.7955,0.0,"MLPClassifier(hidden_layer_sizes=(30, 15, 10), max_iter=1000, random_state=42)"
+V1,Solver lbfgs,"(50, 25)",relu,lbfgs,0.8011,0.076,1.0,1.0,"MLPClassifier(hidden_layer_sizes=(50, 25), max_iter=1000, random_state=42,
+              solver='lbfgs')"
