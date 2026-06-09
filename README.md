@@ -24,7 +24,7 @@
 # Ход работы
 
 Все обработки сделаны в Jupyter Notebook
-источник: [Jupyter Notebook Reporе](https://github.com/GhostCalculator19/MIA_Robo_Lab_02/blob/main/Report/Report_A.ipynb)
+источник: [Jupyter Notebook Report](https://github.com/GhostCalculator19/MIA_Robo_Lab_02/blob/main/Report/Report_A.ipynb)
 
 # **1. Загрузка и анализ данных**
 - Тип поверхности: 5  
@@ -39,3 +39,5 @@
 3) **V1 + V2** - сочетание V1 и V2
     - **Исследование на V1 + V2**: Улучшится ли качество классификации, если объединить исходные данные датчиков и интегральные характеристики движения?
 
+
+![Alt Text](/Pictures/Data_V1+2BV2.png)
