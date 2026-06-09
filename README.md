@@ -158,6 +158,7 @@ $x_{norm}$ - нормализованное значение.
     - LBFGS (Limited-memory Broyden–Fletcher–Goldfarb–Shanno).
 
 > [!IMPORTANT]
+> 
 
 > Во всех экспериментах использовались следующие параметры:
 
