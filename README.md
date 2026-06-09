@@ -45,3 +45,6 @@
 
 ### Диапазоны значений признаков V1, V2 и V1+V2
 ![Alt Text](/Pictures/Interval_V1_V2_V1+V2.png)
+
+### Диапазоны значений признаков полного набора V1 + V2
+![Alt Text](/Pictures/Interval_V1+V2.png)
