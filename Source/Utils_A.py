@@ -178,7 +178,7 @@ def prepare_data_v1v2(data, target_type=5):
 
     return X, y
 
-def evaluate_model(X, y, model, cv=3):
+def evaluate_model(X, y, model, cv=4):
     """
     Оценка модели с кросс-валидацией
     
