@@ -44,4 +44,4 @@
 ![Alt Text](/Pictures/Data_V1+V2.png)
 
 ### Диапазоны значений признаков V1, V2 и V1+V2
-![Alt Text](/Pictures/Data_V1_V2_V1+V2.png)
+![Alt Text](/Pictures/Interval_V1_V2_V1+V2.png)
