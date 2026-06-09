@@ -54,7 +54,9 @@
 ### **Метрики оценки качества моделей**
 1) **Accuracy (Точность классификации)**
 
+$$
 Accuracy = \frac{TP + TN}{TP + TN + FP + FN}
+$$
 
 ## 2.1. Эксперимент на признаки V1
 ![Alt Text](/Pictures/Train_NonNorm_V1.png)
