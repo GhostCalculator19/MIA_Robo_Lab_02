@@ -58,6 +58,7 @@
 $$
 Accuracy = \frac{TP + TN}{TP + TN + FP + FN}
 $$
+
 где:
  - TP (True Positive)
  - TN (True Negative)
