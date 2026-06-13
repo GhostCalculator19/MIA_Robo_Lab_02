@@ -63,18 +63,18 @@ $$
  - TP (True Positive)
  - TN (True Negative)
  - FP (False Positive)
- - FN (False Negative) \\ [1.5em]
+ - FN (False Negative) \\ 
 
 2) **F1-score**
 
 ***"Русский вариант"***
 
 $$
-точность = \frac{Nип}{Nип + Nил} \\ [1.5em]
+точность = \frac{Nип}{Nип + Nил} \\ 
 $$
 
 $$
-полнота = \frac{Nип}{Nип + Nло} \\ [1.5em]
+полнота = \frac{Nип}{Nип + Nло} \\ 
 $$
 
 $$
@@ -89,11 +89,11 @@ $$
 ***"Английский вариант"***
 
 $$
-Precision = \frac{TP}{TP + FP} \\[1.5em]
+Precision = \frac{TP}{TP + FP} \\
 $$
 
 $$
-Recall = \frac{TP}{TP + FN} \\[1.5em]
+Recall = \frac{TP}{TP + FN} \\
 $$
 
 $$
